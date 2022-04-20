@@ -2,6 +2,6 @@
   
   <ul>
   <li>Language: Java</li>
-  <li></li>
+  <li>IDE: NetBeans 7.1.1</li>
   </ul>
   
